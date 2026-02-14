@@ -9,9 +9,9 @@ html {
 }
 
 .page {
-  display: flex;                 
+  display: flex;
   justify-content: center;
-  align-items: center;            
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
