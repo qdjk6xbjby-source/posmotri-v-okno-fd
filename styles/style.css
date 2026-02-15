@@ -186,7 +186,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 30px;
   max-width: 190px;
@@ -280,7 +280,7 @@ ol {
   outline-offset: 1px;
 }
 
-.content__card-link.current,
+.content__card-link_current,
 .content__card-link:active {
   background-color: #545050;
 }
